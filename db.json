@@ -81,6 +81,60 @@
                     "contentObject": false
 
                 }
+            },
+            {
+                "taskId": "721267",
+                "instanceId": "197865",
+                "taskStatus": "Received",
+                "instanceName": "FSAO - Credentials",
+                "taskSubject": "Draft & Review Proposal",
+                "assignedToRole": "Test User",
+                "assignedToUser": "c058082",
+                "assignedToUserName": "Kiran Kumar Gutha",
+                "dueDate": "2021-06-01T13:00:00.767Z",
+                "onboardingId": "100003179",
+                "requestStatus": "Proposal",
+                "fundName": "PostMigration Testing7",
+                "opportunityOwnerName": "Kiran Kumar Gutha",
+                "eventInitiatorName": "Adam Goldberger",
+                "productSponsor": "PostMigration",
+                "@metadata": {
+                    "ObjectID": "aa0fad16-db58-4bd3-81f8-2222",
+                    "dirty": true,
+                    "invalid": false,
+                    "shared": false,
+                    "rootVersionContextID": "2064.a916f72c-yteu6",
+                    "className": "TeamTaskList",
+                    "contentObject": false
+
+                }
+            },
+            {
+                "taskId": "921267",
+                "instanceId": "190865",
+                "taskStatus": "Received",
+                "instanceName": "FSAO - Funds Valued",
+                "taskSubject": "Draft & Review Proposal",
+                "assignedToRole": "Test User",
+                "assignedToUser": "c056082",
+                "assignedToUserName": "Prakash Chandak",
+                "dueDate": "2021-08-01T13:00:00.767Z",
+                "onboardingId": "100003189",
+                "requestStatus": "Proposal",
+                "fundName": "PostMigration Testing7",
+                "opportunityOwnerName": "Prakash Chandak",
+                "eventInitiatorName": "Adam Goldberger",
+                "productSponsor": "PostMigration",
+                "@metadata": {
+                    "ObjectID": "aa0fad16-db58-4bd3-81f8-2222",
+                    "dirty": true,
+                    "invalid": false,
+                    "shared": false,
+                    "rootVersionContextID": "2064.a916f72c-yteu6",
+                    "className": "TeamTaskList",
+                    "contentObject": false
+
+                }
             }
         ]
     }
