@@ -1,0 +1,87 @@
+{
+    "myTask": {
+        "items": [
+            {
+                "taskId": "321267",
+                "instanceId": "137865",
+                "taskStatus": "Received",
+                "instanceName": "FSAO - Credentials",
+                "taskSubject": "Draft & Review Proposal",
+                "assignedToRole": "Test User",
+                "assignedToUser": "c058082",
+                "assignedToUserName": "Kiran Kumar Gutha",
+                "dueDate": "2021-06-01T13:00:00.767Z",
+                "onboardingId": "100003179",
+                "requestStatus": "Proposal",
+                "fundName": "PostMigration Testing7",
+                "opportunityOwnerName": "Kiran Kumar Gutha",
+                "eventInitiatorName": "Adam Goldberger",
+                "productSponsor": "PostMigration",
+                "@metadata": {
+                    "ObjectID": "aa0fad16-db58-4bd3-81f8-2222",
+                    "dirty": true,
+                    "invalid": false,
+                    "shared": false,
+                    "rootVersionContextID": "2064.a916f72c-yteu6",
+                    "className": "MyTaskList",
+                    "contentObject": false
+
+                }
+            },
+            {
+                "taskId": "331267",
+                "instanceId": "137465",
+                "taskStatus": "Received",
+                "instanceName": "FSAO - Credentials",
+                "taskSubject": "Draft & Review Proposal",
+                "assignedToRole": "Test User",
+                "assignedToUser": "c059082",
+                "assignedToUserName": "Tanvi Srivastava",
+                "dueDate": "2021-06-01T13:00:00.767Z",
+                "onboardingId": "100003199",
+                "requestStatus": "Proposal",
+                "fundName": "PostMigration Testing9",
+                "opportunityOwnerName": "Tanvi Srivastava",
+                "eventInitiatorName": "Adam Goldberger",
+                "productSponsor": "PostMigration",
+                "@metadata": {
+                    "ObjectID": "aa0fad16-db58-4bd3-81f8-2272",
+                    "dirty": true,
+                    "invalid": false,
+                    "shared": false,
+                    "rootVersionContextID": "2064.a916f72c-yteu6",
+                    "className": "MyTaskList",
+                    "contentObject": false
+
+                }
+            },
+            {
+                "taskId": "328267",
+                "instanceId": "137965",
+                "taskStatus": "Received",
+                "instanceName": "FSAO - Good and Services for fund allocation",
+                "taskSubject": "Draft & Review Proposal",
+                "assignedToRole": "Test User",
+                "assignedToUser": "c058182",
+                "assignedToUserName": "Pratik Mondal",
+                "dueDate": "2021-06-01T13:00:00.767Z",
+                "onboardingId": "100003179",
+                "requestStatus": "Proposal",
+                "fundName": "PostMigration Testing7",
+                "opportunityOwnerName": "Pratik Mondal",
+                "eventInitiatorName": "Adam Goldberger",
+                "productSponsor": "PostMigration",
+                "@metadata": {
+                    "ObjectID": "aa0fad16-db58-4bd3-81f8-2222",
+                    "dirty": true,
+                    "invalid": false,
+                    "shared": false,
+                    "rootVersionContextID": "2064.a916f72c-yteu6",
+                    "className": "MyTaskList",
+                    "contentObject": false
+
+                }
+            }
+        ]
+    }
+}
